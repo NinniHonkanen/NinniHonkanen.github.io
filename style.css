@@ -142,10 +142,11 @@ a:hover {
 
 h1 {
   color: #ffffff;
-  font-family: "Bahnschrift", "Calibri Black", arial;
+  font-family: "Calibri Black", arial;
   text-align: center;
-  font-size: 60px;
+  font-size: 55px;
   position: center;
+  letter-spacing: 5px;
   float: vertical-center; /* If you want it to be centered */
 }
 
