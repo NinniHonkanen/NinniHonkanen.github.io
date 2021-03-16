@@ -143,7 +143,7 @@ h1 {
   color: #ffffff;
   font-family: "Bahnschrift", "Calibri Black", arial;
   text-align: center;
-  font-size: 70px;
+  font-size: 60px;
   position: center;
   float: vertical-center; /* If you want it to be centered */
 }
@@ -158,10 +158,11 @@ h2 {
 }
 
 h3 {
-  color: #32CD32;
+ color: #32CD32;
   font-size: 32px;
-  font-family: "Bahnschrift bold", "Calibri Black", arial;
+  font-family: "Bahnschrift", "Calibri bold", arial;
   text-align: center;
+  padding: 5px;
   padding-top: 25px;
   padding-right: 5px;
   padding-bottom: 15px;
@@ -259,6 +260,7 @@ th {
   text-align: center;
   padding: 5px;
 }
+
 
 .footer {
   background-color: #000000;
