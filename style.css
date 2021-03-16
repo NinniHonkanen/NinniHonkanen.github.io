@@ -48,8 +48,8 @@ height: 700 px;
   color: #ffffff;
   font-family: "Calibri Light", arial;
   text-align: center;
-font-size: 17px;
-text-shadow: 1px 1px 3px #008000;
+  font-size: 17px;
+  text-shadow: 1px 1px 3px #008000;
 }
 
 .picture {
@@ -72,14 +72,12 @@ img {
 
 }
 
-
 /* Style the links inside the navigation bar */
 .nav-link {
   color: #000000;
   text-align: center;
   text-decoration: none;
 }
-
 
 .collapse navbar-collapse {
   text-align: center;
@@ -89,6 +87,9 @@ img {
 ul {
   color: #000000;
   list-style-type: none;
+  text-align: center;
+font-size: 14px;
+ font-family: "Bahnschrift light","Calibri light", arial;
   text-align: center;
   display: table;
   margin: 0 auto;
@@ -172,8 +173,8 @@ h3 {
 
 h5 {
   color: #000000;
-  font-size: 12px;
-  font-family: "Bahnschrift light","Calibri Light", arial;
+  font-size: 14px;
+  font-family: "Bahnschrift light","Calibri light", arial;
   text-align: center;
   padding: 5px;
 }
@@ -190,7 +191,7 @@ h7 {
 p {
   color: #000000;
   font-size: 14px;
-  font-family: "Bahnschrift light","Calibri Light", arial;
+  font-family: "Bahnschrift light","Calibri light", arial;
   text-align: center;
 }
 
