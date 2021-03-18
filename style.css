@@ -27,7 +27,6 @@ hr {
   font-family: "Calibri Light", arial;
   text-align: center;
   text-shadow: 3px 3px 3px #000000;
-height: 700 px;
 }
 
 
@@ -145,8 +144,7 @@ h1 {
   font-family: "Bahnschrift", "Calibri Black", arial;
   text-align: center;
   font-size: 55px;
-  position: center;
-  float: vertical-center; /* If you want it to be centered */
+  text-align: center;
 }
 
 h2 {
@@ -217,8 +215,6 @@ p {
   background-size: cover;
   text-align: center;
   text-shadow: 3px 3px 3px #000000;
-
-  float: center; /* If you want it to be centered */
   padding-top: 10%;
 }
 
@@ -239,6 +235,7 @@ p {
 }
 
 table {
+padding: 12px;
   font-family: arial, verdana;
   border-collapse: collapse;
   width: 100%;
